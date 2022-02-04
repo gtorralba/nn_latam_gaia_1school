@@ -1,6 +1,5 @@
 numpy
 sklearn
 matplotlib
-warnings
 pickle
 pandas
