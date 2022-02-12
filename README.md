@@ -7,3 +7,5 @@ Se puede ejecutar el jupyter-notebook pinchando en el siguiente enlace:
 
 ## Estructura
 En la carpeta principal se tiene el jupyter-notebook *schoolNotebook_udea.ipynb* que es el código principal (y único) del taller. Para poder llevar a cabo la práctica es necesario leer los datos que hay guardados en la carpeta [*data*](data/README.md) que contiene tanto simulaciones como datos reales de espectros estelares.
+
+Por otro lado, el fichero *latam_machine_learning.pdf* contiene la presentación teórica de introducción a las técnicas de 'Machine learning'.
